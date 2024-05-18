@@ -1,8 +1,8 @@
 [
     {
-        "ident" : "pd2_sample_autoupdate",
+        "ident" : "Disable-some-mods-when-playing-restoration-mod",
         "hash" : "%HASH%",
-        "patchnotes_url" : "https://example.com/other-patchnotes.html",
-        "download_url" : "https://github.com/HugoZink/PD2AutoUpdateExample/releases/download/refs%2Fheads%2Fmaster/pd2autoupdatexample.zip"
+        "patchnotes_url" : "https://modworkshop.net/mod/47774?tab=changelog",
+        "download_url" : "https://github.com/RenatoLopes771/Disable-some-mods-when-playing-restoration-mod/releases/download/refs%2Fheads%2Fmaster/https://github.com/RenatoLopes771/Disable-some-mods-when-playing-restoration-mod.zip"
     }
 ]
