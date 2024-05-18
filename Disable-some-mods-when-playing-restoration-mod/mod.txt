@@ -1,0 +1,10 @@
+{
+	"name": "Disable some mods when playing restoration mod",
+	"description": "Disables and enables certain mods based on if you're playing with or without restoration mod.",
+	"author": "LMV",
+	"contact": "https://modworkshop.net/mod/47774",
+	"version": "1.0",
+	"priority": 900,
+	"blt_version": 2,
+	"supermod_definition" : "hooks.xml"
+}
